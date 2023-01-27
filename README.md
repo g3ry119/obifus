@@ -1,5 +1,7 @@
 # Obifus
 
+## PS: You have to edit the code so you can obfuscate your custom script cuz im to lazy
+
 Simple python obfuscator
 
 before:
